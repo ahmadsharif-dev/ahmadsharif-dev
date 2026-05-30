@@ -22,9 +22,6 @@
 - Contribute to Open Source
 - Get my first internship/job as a developer
 
-### Let's Connect
-- 📧 Email: `apnaemail@gmail.com` (apna email yahan likh do)
-- 💼 LinkedIn: (agar LinkedIn profile hai to link yahan dalo)
 
 ---
 
