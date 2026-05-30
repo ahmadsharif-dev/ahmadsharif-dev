@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Ahmad Sharif 👋
 
-<!--
-**ahmadsharif-dev/ahmadsharif-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Full Stack Developer | Learning Modern Web Technologies | From Pakistan**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 🌱 Currently learning **MERN Stack** (MongoDB, Express, React, Node.js)
+- 💻 Passionate about coding and building real-world projects
+- 📍 Based in **Pattoki, Punjab, Pakistan**
+- 🔭 Always open to learning new things and collaborating
+
+### Skills
+- **Languages:** HTML, CSS, JavaScript
+- **Frontend:** React.js (learning)
+- **Backend:** Node.js & Express (learning)
+- **Tools:** Git, GitHub, VS Code
+- **Others:** Problem Solving
+
+### My Goals
+- Build 10+ quality projects in 2026
+- Contribute to Open Source
+- Get my first internship/job as a developer
+
+### Let's Connect
+- 📧 Email: `apnaemail@gmail.com` (apna email yahan likh do)
+- 💼 LinkedIn: (agar LinkedIn profile hai to link yahan dalo)
+
+---
+
+**"Consistency is the key to growth"** 💪
+
+*Thanks for visiting my GitHub profile!* ✨
